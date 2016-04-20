@@ -13,7 +13,7 @@ import java.util.*;
 
 /**
  *
- * @author Dylan Swek
+ * @author BBouman
  */
 public class main {
 
